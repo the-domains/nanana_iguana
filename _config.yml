@@ -1,0 +1,23 @@
+name: nanana_iguana
+favicon: null
+layout_spectrum: 0.016409209230914712
+typography_spectrum: 0.9513036087155342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.412360668880865
+  lightness: 0.672218601917848
+  saturation: 0.5724603878334165
+  rhythmicContrast: 0.7643014520872384
+purpose: []
